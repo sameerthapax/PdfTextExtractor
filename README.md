@@ -4,7 +4,7 @@ This is a lightweight Node.js backend for extracting text from uploaded PDF file
 
 ## Endpoints
 
-- `POST /extract`: Upload a PDF (form-data key = `file`) and get extracted text
+- `POST https://pdftextextractor-wl9d.onrender.com/extract`: Upload a PDF (form-data key = `file`) and get extracted text
 
 ## Usage
 
